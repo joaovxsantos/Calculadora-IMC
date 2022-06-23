@@ -41,8 +41,12 @@ button{
     
 }
 
+p{
+    font-size: 22px;
+}
+
+
 hr{
-    /* border: none; */
     
     height: 8px;
     background-color: #120907;
